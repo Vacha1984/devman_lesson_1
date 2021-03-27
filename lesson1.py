@@ -1,7 +1,6 @@
 from time import sleep
 
 print("\u001b[32;1m", end= '')
-#1
 print("""
                 _-o#&&*''''?d:>b\\_
               _o/'`''  '',, dMF9MMMMMHo_
@@ -27,7 +26,7 @@ print("""
                 . _                  .-PP
                   '`--._,dd###pp='''
 				  """)
-#2
+
 print('\u001b[26A')
 sleep (1)
 print("""
@@ -55,7 +54,7 @@ print("""
               '-\\   .,               .-`
                   '-:b~\\\\_,oddq==--'
 """)
-#3
+
 print('\u001b[26A')
 sleep (1)
 print("""
@@ -83,7 +82,7 @@ print("""
               ` .         .,         .-
                   '-.-~ooHH__,,v~--`
 """)
-#4
+
 print('\u001b[26A')
 sleep (1)
 print("""
@@ -111,7 +110,7 @@ print("""
               ' .             ._     .-
                   '-. -voboo#&:,-.-`
 """)
-#5
+
 print('\u001b[26A')
 sleep (1)
 print("""
@@ -139,7 +138,7 @@ print("""
               '-\\   .,               .-`
                   '-:b~\\\\_,oddq==--'
 """)
-#6
+
 print('\u001b[26A')
 sleep (1)
 print("""
@@ -167,7 +166,7 @@ print("""
               '-..                  _.-
                   '---.._\\o,oov+--''
 """)
-#7
+
 print('\u001b[26A')
 sleep (1)
 print("""
@@ -195,7 +194,7 @@ print("""
               ' .                    .-
                  ```^==\\_.,,,ov--\\-`
 """)
-#8
+
 print('\u001b[26A')
 sleep (1)
 print("""
@@ -223,7 +222,7 @@ print("""
                - .                  ..-
                   '`*#d##c.._\\v----`
 """)
-#9
+
 print('\u001b[26A')
 sleep (1)
 print("""
@@ -251,7 +250,7 @@ print("""
               ' .                    .-
                   '`*##HMH##:__,-.-`
 """)
-#10
+
 print('\u001b[26A')
 sleep (1)
 print("""
@@ -279,7 +278,7 @@ print("""
               `  .                   .-
                   '`'#HHMMMMM#<>..-`
 """)
-#11
+
 print('\u001b[26A')
 sleep (1)
 print("""
@@ -307,7 +306,7 @@ print("""
               '- .                   .-`
                   '`\\bqHMMMMMMHHb--`
 """)
-#12
+
 print('\u001b[26A')
 sleep (1)
 print("""
@@ -335,7 +334,7 @@ print("""
               ` .                    . `
                   '--##HH#HMMMHH#''`
 """)
-#13
+
 print('\u001b[26A')
 sleep (1)
 print("""
